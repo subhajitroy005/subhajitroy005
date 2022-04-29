@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<img align="right" alt="GIF" src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/arduino.gif?raw=true" width="400" height="300" />
+
+
+
+
 <!--
 **subhajitroy005/subhajitroy005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
