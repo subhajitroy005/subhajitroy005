@@ -18,8 +18,7 @@
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/gnu-project_logo.jpg" width="35" height="35" /></a>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/python_logo.png" width="35" height="35" /></a>
 
-
-</br>
+<br>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/mc_studio_logo.png" width="35" height="35" /></a>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/mplab_xide_logo.png" width="35" height="35" /></a>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/kicad_icon.png" width="35" height="35" /></a>
