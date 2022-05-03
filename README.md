@@ -6,6 +6,12 @@
 
 
 
+**Currently working with:**
+**Learning:**
+**Not working right now but I have a touch**
+
+
+
 <!--
 **subhajitroy005/subhajitroy005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
