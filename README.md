@@ -8,7 +8,7 @@
 
 **Currently working with:**
 
-<a title="C"><img src="media_sources/c_programming_icon.png" width="20" height="20"" /></a>
+<a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/c_programming_icon.png" width="20" height="20" /></a>
 
 **Learning:**
 **Not working right now but I have a touch**
