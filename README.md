@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img align="right" alt="GIF" src="https://i.gifer.com/7yZq.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://i.gifer.com/7yZq.mp4" width="400" height="300" />
 
 
 
