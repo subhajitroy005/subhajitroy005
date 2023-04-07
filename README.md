@@ -36,7 +36,7 @@
 
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/Linux_logo.jpg" width="35" height="35" /></a>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/kali_linux_logo.png" width="35" height="35" /></a>
-
+<a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/labview_logo.png" width="127" height="35" /></a>
 <!--
 **subhajitroy005/subhajitroy005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
