@@ -23,6 +23,7 @@
 <br></br>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/mc_studio_logo.png" width="35" height="35" /></a>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/mplab_xide_logo.png" width="35" height="35" /></a>
+<a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/stm32cube_logo.png" width="102" height="40" /></a>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/kicad_icon.png" width="35" height="35" /></a>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/Git_Icon.png" width="35" height="35" /></a>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/Apache_Subversion_Logo.png" width="52" height="35" /></a>
