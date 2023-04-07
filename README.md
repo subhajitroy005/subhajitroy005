@@ -19,6 +19,7 @@
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/python_logo.png" width="35" height="35" /></a>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/st_logo.png" width="35" height="35" /></a>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/autosar_logo.png" width="127" height="35" /></a>
+<a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/segger_logo.png" width="100" height="35" /></a>
 <br></br>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/mc_studio_logo.png" width="35" height="35" /></a>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/mplab_xide_logo.png" width="35" height="35" /></a>
