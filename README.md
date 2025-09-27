@@ -15,6 +15,22 @@ Over the years, I have worked on **high-speed inspection systems, automotive fir
 ## 🛠️ Technical Expertise  
 
 ### **Embedded Systems & Firmware Development**  
+
+<!-- Floating all icons to the right of the section -->
+<img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/c_programming_icon.png" title="C Programming" width="40" height="40" align="right" />
+<img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/c++_logo.png" title="C++" width="40" height="40" align="right" />
+<img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/gnu-project_logo.jpg" title="GNU Toolchain" width="40" height="40" align="right" />
+<img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/arm_logo.jpeg" title="ARM" width="100" height="40" align="right" />
+<img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/Arm_CMSIS_logo.jpg" title="ARM CMSIS" width="100" height="40" align="right" />
+<img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/freertos_logo.png" title="FreeRTOS" width="100" height="40" align="right" />
+<img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/Linux_logo.jpg" title="Linux" width="40" height="40" align="right" />
+<img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/autosar_logo.png" title="AUTOSAR" width="120" height="40" align="right" />
+<img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/arduino_logo.jpg" title="Arduino" width="40" height="40" align="right" />
+<img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/st_logo.png" title="STMicroelectronics" width="40" height="40" align="right" />
+<img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/mcp_logo.png" title="MCP Devices" width="40" height="40" align="right" />
+<img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/Avr_logo.png" title="AVR Microcontrollers" width="80" height="40" align="right" />
+<img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/atmel_logo.jpg" title="Atmel" width="120" height="40" align="right" />
+
 - Bare-metal programming for ARM Cortex-M, STM32, RISC-V, and custom SoCs  
 - Real-time systems: FreeRTOS, custom lightweight RTOS kernels  
 - Driver and peripheral development: GPIO, I2C, SPI, CAN, UART, Ethernet, USB  
@@ -24,21 +40,6 @@ Over the years, I have worked on **high-speed inspection systems, automotive fir
 - Device driver design (char drivers, network drivers, block devices)  
 - File systems: FAT, ext, and custom lightweight FS implementations  
 - Kernel object models: task structures, lists, synchronization primitives 
-
-<a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/c_programming_icon.png" width="35" height="35" /></a>
-<a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/c++_logo.png" width="35" height="35" /></a>
-<a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/gnu-project_logo.jpg" width="35" height="35" /></a>
-<a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/arm_logo.jpeg" width="107" height="35" /></a>
-<a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/Arm_CMSIS_logo.jpg" width="97" height="35" /></a>
-<a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/freertos_logo.png" width="100" height="35" /></a>
-<a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/Linux_logo.jpg" width="35" height="35" /></a>
-<a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/autosar_logo.png" width="127" height="35" /></a>
-<a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/arduino_logo.jpg" width="35" height="35" /></a>
-<br></br>
-<a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/st_logo.png" width="35" height="35" /></a>
-<a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/mcp_logo.png" width="35" height="35" /></a>
-<a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/Avr_logo.png" width="77" height="35" /></a>
-<a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/atmel_logo.jpg" width="127" height="35" /></a>
 
 ---
 
