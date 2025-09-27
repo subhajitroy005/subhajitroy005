@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Subhajit Roy  
 
-| <h2>Senior Embedded Systems Engineer | Firmware Architect | Kernel Developer</h2> | <img align="right" alt="GIF" src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/generic_coding.gif?raw=true" width="400" height="300" /> |
+| **Senior Embedded Systems Engineer | Firmware Architect | Kernel Developer** | <img align="right" alt="GIF" src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/generic_coding.gif?raw=true" width="400" height="300" /> |
 | --- | --- |
 
 ---
