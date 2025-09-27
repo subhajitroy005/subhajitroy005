@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Subhajit Roy  
 
-| ### Senior Embedded Systems Engineer \| Firmware Architect \| Kernel Developer | <img align="right" alt="GIF" src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/generic_coding.gif?raw=true" width="400" height="300" /> |
+| **Senior Embedded Systems Engineer \| Firmware Architect \| Kernel Developer** | <img align="right" alt="GIF" src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/generic_coding.gif?raw=true" width="400" height="300" /> |
 | --- | --- |
 
 ---
@@ -67,9 +67,10 @@ Over the years, I have worked on **high-speed inspection systems, automotive fir
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/mplab_xide_logo.png" width="35" height="35" /></a>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/stm32cube_logo.png" width="102" height="40" /></a>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/labview_logo.png" width="127" height="35" /></a>
-<br></br>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/Git_Icon.png" width="35" height="35" /></a>
 <a title="C"><img src="https://github.com/subhajitroy005/subhajitroy005/blob/main/media_sources/Apache_Subversion_Logo.png" width="52" height="35" /></a>
+
+---
 
 ### **Hardware Design** 
 - Multilayer digital PCB design
